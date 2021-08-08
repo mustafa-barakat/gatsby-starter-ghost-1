@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": " https://xpertzone-blog.herokuapp.com ",
-    "contentApiKey": "d1e3c36fadd6288089c5f4f922 "
+    "contentApiKey": "d1e3c36fadd6288089c5f4f922"
   },
   "production": {
     "apiUrl": " https://xpertzone-blog.herokuapp.com ",
-    "contentApiKey": "d1e3c36fadd6288089c5f4f922 "
+    "contentApiKey": "d1e3c36fadd6288089c5f4f922"
   }
 }
